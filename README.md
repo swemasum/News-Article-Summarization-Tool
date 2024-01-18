@@ -33,3 +33,6 @@ Implementation
 Usage
  1. The tool can be used to fetch and summarize news articles from specified sources.
  2. Users can customize the search terms and the number of articles to be summarized.
+
+![screencapture-file-C-Users-masum-NEWS-PAPER-SUMMARY-File-html-2024-01-18-23_14_37](https://github.com/swemasum/News-Article-Summarization-Tool/assets/43910072/382eaa5c-b030-46d1-83c0-2fcb8b5f54f2)
+
